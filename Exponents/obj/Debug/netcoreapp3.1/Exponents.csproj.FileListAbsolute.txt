@@ -1,0 +1,14 @@
+C:\Users\yashi\source\repos\Exponents\Exponents\bin\Debug\netcoreapp3.1\Exponents.exe
+C:\Users\yashi\source\repos\Exponents\Exponents\bin\Debug\netcoreapp3.1\Exponents.deps.json
+C:\Users\yashi\source\repos\Exponents\Exponents\bin\Debug\netcoreapp3.1\Exponents.runtimeconfig.json
+C:\Users\yashi\source\repos\Exponents\Exponents\bin\Debug\netcoreapp3.1\Exponents.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\Exponents\Exponents\bin\Debug\netcoreapp3.1\Exponents.dll
+C:\Users\yashi\source\repos\Exponents\Exponents\bin\Debug\netcoreapp3.1\Exponents.pdb
+C:\Users\yashi\source\repos\Exponents\Exponents\obj\Debug\netcoreapp3.1\Exponents.csproj.AssemblyReference.cache
+C:\Users\yashi\source\repos\Exponents\Exponents\obj\Debug\netcoreapp3.1\Exponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashi\source\repos\Exponents\Exponents\obj\Debug\netcoreapp3.1\Exponents.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\Exponents\Exponents\obj\Debug\netcoreapp3.1\Exponents.AssemblyInfo.cs
+C:\Users\yashi\source\repos\Exponents\Exponents\obj\Debug\netcoreapp3.1\Exponents.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\Exponents\Exponents\obj\Debug\netcoreapp3.1\Exponents.dll
+C:\Users\yashi\source\repos\Exponents\Exponents\obj\Debug\netcoreapp3.1\Exponents.pdb
+C:\Users\yashi\source\repos\Exponents\Exponents\obj\Debug\netcoreapp3.1\Exponents.genruntimeconfig.cache
